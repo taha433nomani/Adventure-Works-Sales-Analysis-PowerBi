@@ -124,8 +124,8 @@ Return Reduction: High returns in Accessories category indicate the need for qua
 ![Executive Summary]
 <img width="1178" height="666" alt="Adventure works Dashboard (1)" src="https://github.com/user-attachments/assets/072d9539-5365-4b2b-99fc-c691829ede66" />
 
-![Customer & Regional Insights]
+!Product Insights]
 <img width="1178" height="671" alt="Adventure works Dashboard(2)" src="https://github.com/user-attachments/assets/26006def-b7b1-49c8-852a-c61e6af776a7" />
 
-![Product Insights]
+![Customer & Regional Insights]
 <img width="1193" height="677" alt="Adventure works dashboard (3)" src="https://github.com/user-attachments/assets/fee16358-ab57-4f44-9066-6f23019f9050" />
