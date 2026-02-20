@@ -70,45 +70,35 @@ Total Sales: 12,400,120
 Total Profit: 5,276,229
 MTD Sales: 340,665
 YTD Sales: 1,765,505
-
 These KPIs provide an overall snapshot of business performance.
 
 Top 5 Categories (Bar Chart)
-
 Bikes generate the highest revenue, followed by Accessories and Clothing.
 Bikes clearly dominate overall sales contribution.
 
 Sales by Gender (Donut Chart)
-
 Sales are almost evenly distributed between male and female customers, showing balanced customer segmentation.
 
 Monthly Sales Trend (Line Chart)
-
 Sales show steady growth in the first half of the year, with a dip mid-year and recovery toward year-end.
 
 Sales by Territory (Treemap)
-
 Australia and United States contribute the highest revenue.
 Other strong regions include Southwest, Northwest, United Kingdom, and Germany.
 
 Sales vs Profit by Region (Bar Chart)
-
 Compares revenue and profit side by side across territories to evaluate regional profitability.
 
 Customer Count vs Profit (Scatter Plot)
-
 Analyzes the relationship between total customers and profit at the product level to identify high-value customer segments.
 
 Profit by Subcategory (Bar Chart)
-
 Road Bikes and Mountain Bikes generate the highest profit among subcategories.
 
 Returns by Category
-
 Accessories show the highest return count compared to Bikes and Clothing, indicating potential quality or demand issues.
 
 • Business Impact & Insights
-
 Revenue Optimization: Focus marketing efforts on high-performing categories such as Bikes.
 
 Regional Strategy: Strengthen operations in top-performing territories like Australia and the United States.
